@@ -1,16 +1,25 @@
+
 # Marketing Agency
+---
 
 ## Description
 
-This page had many errors that needed to be corrected and didn't meet accessibility standards.
+This existing marketing page had many errors that needed to be corrected.  Some didn't meet **accessibility standards** as they didn't contain any image alt attributes.
 
-## Corrections
 
-Semantic HTML elements were added to apply a logical structure.  For example, several non-semantic elements such as <div> were replaced by semantic elements to better define that section of the website.  Added an appropriate title to relate with the content, so it's more likely to appear under search results (SEO).  Also, cleaned up HTML code so it's easier to read by ridding of unecessary spaces and lines and corrected some headings.  Finally, ensured tabbing navigation to ensure that it followed a sequential order.
+### Corrections applied:
 
-In order to meet accessibility standards, Alt attributes were added to image elements.  Ensured that tabbing worked in sequential order and corrected first link to allow it to work properly.
+* **Semantic** HTML elements were added to apply a logical structure to source code
+  * For example, several *non-semantic elements* such as (div) were replaced by semantic elements to better define specific sections of the website
+* A descriptive title was added as **Marketing Agency** to relate with the content
+  * This makes it more likely to appear under *search engine optimization* (SEO) results
+* Cleaned up HTML code so it's easier to read by ridding of unecessary spacing
+  * Some headings and one navigation link were also corrected
+* To meet **accessibility standards**:
+  * Alt attributes were added to all image elements
+  * Tested navigation with tabbing to ensure that it followed a sequential order
 
-## Credits
+### Credits
 
 The following links were used as tutorials to complete the necessary corrections.
 
